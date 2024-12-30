@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "36341333468",
+    "project_id": "mcsmart-c1013",
+    "storage_bucket": "mcsmart-c1013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36341333468:android:997398ad596185de95e319",
+        "android_client_info": {
+          "package_name": "apps.mcsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36341333468-02h5i830quu519uo3g8v9uuapk964e14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdIRtK9yVNwrzW1L62DqZ7g7FD0GeLoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36341333468-02h5i830quu519uo3g8v9uuapk964e14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36341333468-6mn1aos2akakts2q2m05jf9kkb20eqvi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "apps.mcsmart",
+                "app_store_id": "1658465230"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36341333468:android:81defed84d490cb195e319",
+        "android_client_info": {
+          "package_name": "com.mcsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36341333468-02h5i830quu519uo3g8v9uuapk964e14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdIRtK9yVNwrzW1L62DqZ7g7FD0GeLoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36341333468-02h5i830quu519uo3g8v9uuapk964e14.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36341333468-6mn1aos2akakts2q2m05jf9kkb20eqvi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "apps.mcsmart",
+                "app_store_id": "1658465230"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

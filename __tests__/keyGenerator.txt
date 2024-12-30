@@ -1,0 +1,35 @@
+sudo keytool -genkey -v -keystore mcsmart.keystore -alias mootie-alias -keyalg RSA -keysize 2048 -validity 10000
+Password:
+Enter keystore password:  
+Re-enter new password: 
+What is your first and last name?
+  [Unknown]:  Gian Rhamadhan
+What is the name of your organizational unit?
+  [Unknown]:  React Native
+What is the name of your organization?
+  [Unknown]:  McSmart
+What is the name of your City or Locality?
+  [Unknown]:  Jakarta
+What is the name of your State or Province?
+  [Unknown]:  DKI Jakarta
+What is the two-letter country code for this unit?
+  [Unknown]:  ID
+Is CN=Gian Rhamadhan, OU=React Native, O=McSmart, L=Jakarta, ST=DKI Jakarta, C=ID correct?
+  [no]:  
+What is your first and last name?
+  [Gian Rhamadhan]:  
+What is the name of your organizational unit?
+  [React Native]:  
+What is the name of your organization?
+  [McSmart]:  
+What is the name of your City or Locality?
+  [Jakarta]:  
+What is the name of your State or Province?
+  [DKI Jakarta]:  
+What is the two-letter country code for this unit?
+  [ID]:  
+Is CN=Gian Rhamadhan, OU=React Native, O=McSmart, L=Jakarta, ST=DKI Jakarta, C=ID correct?
+  [no]:  yes
+
+Generating 2,048 bit RSA key pair and self-signed certificate (SHA256withRSA) with a validity of 10,000 days
+	for: CN=Gian Rhamadhan, OU=React Native, O=McSmart, L=Jakarta, ST=DKI Jakarta, C=ID

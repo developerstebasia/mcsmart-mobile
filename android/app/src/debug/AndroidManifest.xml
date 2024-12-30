@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <queries>
+      <package android:name="com.google.android.youtube" />
+      <package android:name="com.facebook.katana" />
+      <package android:name="com.facebook.orca" />
+      <package android:name="com.facebook.mlite" />
+      <package android:name="com.facebook.lite" />
+      <package android:name="org.telegram.messenger" />
+      <package android:name="com.whatsapp" />
+      <package android:name="com.instagram.android" />
+    </queries>
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+
+    <application
+        android:usesCleartextTraffic="true"
+        tools:targetApi="28"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" android:exported="false" />
+    </application>
+</manifest>
